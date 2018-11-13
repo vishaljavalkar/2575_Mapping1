@@ -11,7 +11,7 @@ public class TestMapping {
 		String[] buom = {};
 		String[] auom = {};
 		String[] MAflag = {};
-
+        // Added some comments to it.
 	}
 
 	public void N4(String[] inputu, String[] inputa, String[] type, String[] eventtype, String[] buom, String[] auom,
